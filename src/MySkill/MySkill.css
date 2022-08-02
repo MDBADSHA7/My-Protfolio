@@ -1,0 +1,14 @@
+.Skill {
+    margin-top: 20px;
+    text-align: center;
+    justify-content: center;
+    color: deeppink;
+    font-size: xx-large;
+    font: bolder;
+    margin-bottom: 10px;
+}
+
+.progressbar {
+    justify-content: center;
+    text-align: center;
+}

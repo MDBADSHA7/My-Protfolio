@@ -1,5 +1,22 @@
-.contact-meddle {
-    display: flex;
-    justify-content: center;
-    /* border: solid 5px royalblue; */
-}
+ .contact-meddle {
+     display: flex;
+     justify-content: center;
+ }
+
+ .contact-form {
+     display: flex;
+     justify-content: center;
+     text-align: center;
+     color: red;
+     font-size: larger;
+     font: bolder;
+ }
+
+ .contact {
+     text-align: center;
+     font-size: xx-large;
+     font: bold;
+     color: firebrick;
+     margin-top: 20px;
+     margin-bottom: 20px;
+ }
