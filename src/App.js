@@ -9,7 +9,7 @@ import Project from './Project/Project';
 import Resume from './Resume/Resume';
 function App() {
   return (
-    <div className="px-12 py-12">
+    <div className="px-5 py-5">
       <Navbar></Navbar>
       <Routes>
         <Route path="/" element={<Home></Home>}></Route>

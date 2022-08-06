@@ -32,7 +32,7 @@ const Contact = () => {
                         <br />
                         <label >Message</label>
                         <br />
-                        <textarea name="message" class="input input-bordered" required />
+                        <textarea name="message" class="input input-bordered " required />
                         <br />
                         <input type="submit" value="Send" class="btn btn-primary" />
                         <ToastContainer></ToastContainer>

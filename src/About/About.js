@@ -11,6 +11,7 @@ const About = () => {
             </section >
             <div className='about'>
                 <h1 className="text-5xl font-bold"><span className='aboutme'>About Me</span></h1>
+                <br />
                 <h1>I'm MD BADSHA.I'm Frontend Web Developer.I always try my best to improve my programming skill.I did more than 20 frontend projects.I can make also Full stack project but not good.I made 3 full stack project.In future I want to be a good Full stack web developer.In a word i want to tell, my hope i will be a world best web developer.</h1>
             </div>
         </div >

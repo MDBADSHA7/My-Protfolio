@@ -6,9 +6,22 @@
     font-size: xx-large;
     font: bolder;
     margin-bottom: 10px;
+    font-family: 'Berkshire Swash', cursive;
+    font-family: 'Kanit', sans-serif;
+    font-family: 'Mochiy Pop P One', sans-serif;
+    font-family: 'Mouse Memoirs', sans-serif;
+    font-family: 'Oswald', sans-serif;
 }
 
 .progressbar {
     justify-content: center;
     text-align: center;
+}
+
+p {
+    font-family: 'Berkshire Swash', cursive;
+    font-family: 'Kanit', sans-serif;
+    font-family: 'Mochiy Pop P One', sans-serif;
+    font-family: 'Mouse Memoirs', sans-serif;
+    font-family: 'Oswald', sans-serif;
 }

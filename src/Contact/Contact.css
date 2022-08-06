@@ -1,6 +1,12 @@
  .contact-meddle {
      display: flex;
      justify-content: center;
+
+     font-family: 'Berkshire Swash', cursive;
+     font-family: 'Kanit', sans-serif;
+     font-family: 'Mochiy Pop P One', sans-serif;
+     font-family: 'Mouse Memoirs', sans-serif;
+     font-family: 'Oswald', sans-serif;
  }
 
  .contact-form {
@@ -10,6 +16,12 @@
      color: red;
      font-size: larger;
      font: bolder;
+
+     font-family: 'Berkshire Swash', cursive;
+     font-family: 'Kanit', sans-serif;
+     font-family: 'Mochiy Pop P One', sans-serif;
+     font-family: 'Mouse Memoirs', sans-serif;
+     font-family: 'Oswald', sans-serif;
  }
 
  .contact {
@@ -19,4 +31,10 @@
      color: firebrick;
      margin-top: 20px;
      margin-bottom: 20px;
+
+     font-family: 'Berkshire Swash', cursive;
+     font-family: 'Kanit', sans-serif;
+     font-family: 'Mochiy Pop P One', sans-serif;
+     font-family: 'Mouse Memoirs', sans-serif;
+     font-family: 'Oswald', sans-serif;
  }
